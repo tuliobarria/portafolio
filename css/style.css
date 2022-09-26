@@ -17,12 +17,12 @@
 }
 .blanco{	
 	background-color: white;
-	width: 400px;
-	height: 300px;
+	width: 200px;
+	height: 10px;
 }
 .rojo{
     background-color: red;
-    width: 60%;
+    width: 100%;
     height:200px;
 }
 .container{
